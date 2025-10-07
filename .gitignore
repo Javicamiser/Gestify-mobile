@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+
+# Archivos de Expo
+.expo/
+.expo-shared/
+
+# Archivos de configuración local
+.env
+.vscode/
+dist/
+build/
+web-build/
+
+# Archivos de logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
